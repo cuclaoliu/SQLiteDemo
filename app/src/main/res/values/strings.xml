@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list_all">列出所有</string>
+    <string name="insert_record">插入测试记录</string>
+</resources>
